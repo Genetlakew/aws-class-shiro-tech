@@ -1,4 +1,5 @@
 {
+   "name" : "Genet",
    "resource" : {
         "devVPC": {
             "Type": "AWS::EC2::VPC",
